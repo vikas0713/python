@@ -1,4 +1,5 @@
-# collecting data in class as a dictionary
+# collecting data in class as a dictionary's syntax
+
 
 class Data:
     def __init__(self, **kwargs):
