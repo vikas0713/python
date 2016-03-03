@@ -22,3 +22,4 @@ _r = int(raw_input());
 
 res = maxXor(_l, _r);
 print(res)
+print(res)
